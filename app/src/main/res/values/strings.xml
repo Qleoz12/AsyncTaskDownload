@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AsyncTaskDownload</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name = "urls">
+        <item>"Item 1</item>
+        <item>"Item 2</item>
+        <item>"Item 4</item>
+        <item>"Item 5</item>
+        <item>"Item 6</item>
+
+    </string-array>
+
+    <string-array name = "imageUrls">
+
+        <item>"https://lh6.googleusercontent.com/-8HO-4vIFnlw/URquZnsFgtI/AAAAAAAAAbs/WT8jViTF7vw/s240-c/Antelope%252520Hallway.jpg"</item>
+        <item>"http://www.parisapartment7eme.com/pano1.jpg"</item>
+        <item>"Item 4</item>
+        <item>"Item 5</item>
+        <item>"Item 6</item>
+    </string-array>
+
+</resources>
